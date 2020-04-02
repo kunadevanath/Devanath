@@ -15,3 +15,4 @@ We can, as an example effort, even modify this README and change it as if it wer
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 
 [![Build Status](https://dev.azure.com/kunadevanath0968/TestDemo/_apis/build/status/kunadevanath.Devanath?branchName=master)](https://dev.azure.com/kunadevanath0968/TestDemo/_build/latest?definitionId=1&branchName=master)
+Addes some piece of code
